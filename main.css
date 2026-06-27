@@ -76,20 +76,20 @@ h2{
     font-family: Fraunces,serif;
 }
 .old-price{
-   text-decoration: line-through;
-   color: hsl(228,12%,48%);
-   font-size: 0.9rem;
-@media (max-width: 600px) {
-  .card {flex-direction:column;
-        width:90%
-        }           {
-.card img {
-  width: 100px;
-  height:250px;
-  object-fit:cover;
+    text-decoration: line-through;
+    color: hsl(228,12%,48%);
+    font-size: 0.9rem;
 }
 
-.content{
-    width:100%
+@media (max-width: 600px) {
+  .card {
+    width: 90%;
+    flex-direction: column;
+  }
+
+  img {
+    border-radius: 10px 10px 0 0;
+  }
+}
     padding 20px;}
 
