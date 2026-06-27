@@ -3,6 +3,11 @@
     padding: 0;
     font-family: sans-serif;
 }
+@media (max-width: 600px) {
+  .card {
+    
+  }
+}
 body{
     background-color:  hsl(30, 38%, 92%);
     height: 100vh;
