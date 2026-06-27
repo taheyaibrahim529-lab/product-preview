@@ -80,12 +80,16 @@ h2{
    color: hsl(228,12%,48%);
    font-size: 0.9rem;
 @media (max-width: 600px) {
-  .card { }
-}
-
+  .card {flex-direction:column;
+        width:90%
+        }           {
 .card {
-  width: 600px;
+  width: 100px;
+  height:250px;
+  object-fit:cover;
 }
 
-}
+.content{
+    width:100%
+    padding 20px;}
 
