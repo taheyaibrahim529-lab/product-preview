@@ -80,9 +80,12 @@ h2{
    color: hsl(228,12%,48%);
    font-size: 0.9rem;
 @media (max-width: 600px) {
-  .card {
-    
-  }
+  .card { }
 }
+
+.card {
+  width: 600px;
+}
+
 }
 
