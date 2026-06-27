@@ -83,7 +83,7 @@ h2{
   .card {flex-direction:column;
         width:90%
         }           {
-.card {
+.card img {
   width: 100px;
   height:250px;
   object-fit:cover;
