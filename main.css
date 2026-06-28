@@ -15,7 +15,7 @@ body{
 }
 .box{
     display: flex;
-    max-width: 600px; /* قلل الرقم ده لو عايز الكارت اصغر. جرب 550px */
+    max-width: 450px; 
     width: 100%;      
     background-color:  hsl(0, 0%, 100%);
     border-radius:10px;
