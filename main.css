@@ -12,9 +12,10 @@ body{
 
 }
 img{
-    width: 50%;
+    width: 20%;
     height: 400px;
     object-fit: cover;
+    margin-top:20px;
     
 }
 .content{
